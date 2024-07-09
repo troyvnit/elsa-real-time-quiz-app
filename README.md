@@ -7,6 +7,7 @@ Develop a real-time vocabulary quiz app using a full-stack Google strategy, leve
 ## System Design
 
 ### Architecture Diagram
+![elsa-challenge drawio](https://github.com/troyvnit/elsa-real-time-quiz-app/assets/3962888/025ab7f1-8a69-40c5-b0d1-45a0f4d52d8e)
 
 1. **Frontend**:
 
